@@ -1,0 +1,12 @@
+D:\GithubNew\19\captcha\captcha\CaptchaBp\bin\Debug\Igyx UI.exe.config
+D:\GithubNew\19\captcha\captcha\CaptchaBp\bin\Debug\Igyx UI.exe
+D:\GithubNew\19\captcha\captcha\CaptchaBp\bin\Debug\Igyx UI.pdb
+D:\GithubNew\19\captcha\captcha\CaptchaBp\bin\Debug\IgyxUI.dll
+D:\GithubNew\19\captcha\captcha\CaptchaBp\obj\Debug\Captcha.csproj.AssemblyReference.cache
+D:\GithubNew\19\captcha\captcha\CaptchaBp\obj\Debug\Igyx_UI.Form1.resources
+D:\GithubNew\19\captcha\captcha\CaptchaBp\obj\Debug\Igyx_UI.Properties.Resources.resources
+D:\GithubNew\19\captcha\captcha\CaptchaBp\obj\Debug\Captcha.csproj.GenerateResource.cache
+D:\GithubNew\19\captcha\captcha\CaptchaBp\obj\Debug\Captcha.csproj.CoreCompileInputs.cache
+D:\GithubNew\19\captcha\captcha\CaptchaBp\obj\Debug\Captcha.csproj.Up2Date
+D:\GithubNew\19\captcha\captcha\CaptchaBp\obj\Debug\Igyx UI.exe
+D:\GithubNew\19\captcha\captcha\CaptchaBp\obj\Debug\Igyx UI.pdb
